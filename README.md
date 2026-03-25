@@ -22,7 +22,7 @@ Je développe un écosystème complet autour d’un **jeu de pêche interactif e
 
 - Gestion d’événements temps réel et maintien d’un **état partagé cohérent** entre tous les services
 
-👉 **Démo live :** https://archifishdex.fr  
+👉 **Démo live (nécessite un compte Twitch) :** https://archifishdex.fr  
 👉 **Code :** https://github.com/ArchibaldW/ArchiDexFishing  
 
 ---
