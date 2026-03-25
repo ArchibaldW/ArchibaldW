@@ -1,41 +1,85 @@
-# Salut, moi c'est Hervé (ou Archibald Wirslayd) ! 👋 
+# 👋 Salut, moi c'est Hervé (Archibald Wirslayd)
 
-**Développeur Fullstack | Ex-Enseignant de Maths | Streamer Twitch**
+🎯 **Développeur Fullstack (Vue.js / Node.js / WordPress)**  
+Ancien professeur de mathématiques reconverti dans le développement web, je conçois aujourd’hui des applications robustes avec une forte exigence sur la qualité du code, la structure et la maintenabilité.
 
-Ancien professeur de mathématiques, j'ai pivoté vers le développement web avec une obsession : la rigueur technique et la propreté du code. Aujourd'hui, j'allie mon expertise JavaScript (VueJS/Node) et WordPress avancé pour bâtir des solutions robustes.
-
----
-
-### 🛠 Ma Stack Technique
-
-- **Front-end :** Vue.js, Nuxt.js, ReactJS, Quasar, SCSS.
-- **Back-end :** Node.js (Express), MongoDB, PHP (CakePHP), WordPress (Architecture Bedrock / Timber).
-- **Méthodologies :** Agile (Scrum/Kanban), Rigueur pédagogique, Force de proposition.
-- **Outils :** Git/GitLab, Vite, Figma.
+👉 Actuellement **à la recherche d’un poste Fullstack** (Tours ou remote)
 
 ---
 
-### 🎣 Projet de cœur : Archifishdex
-Je développe un écosystème complet pour un **jeu de pêche interactif** qui tourne en direct sur ma chaîne Twitch.
-- **Le challenge :** Faire communiquer un jeu (non développé par moi-même), un site web (VueJS), un backend (NodeJS/MongoDB) et un Bot JS qui interagit en temps réel avec le tchat.
-- **Live sur :** [archifishdex.fr](https://archifishdex.fr)
-- **Le code :** [ArchiDexFishing](https://github.com/ArchibaldW/ArchiDexFishing)
+## 🚀 Projet phare : Archifishdex
+
+Je développe un écosystème complet autour d’un **jeu de pêche interactif en live sur Twitch**.
+
+### 🧠 Défis techniques relevés :
+- Synchronisation **temps réel** entre plusieurs systèmes
+- Communication entre :
+  - une web app (Vue.js)
+  - une API (Node.js / MongoDB)
+  - un bot Twitch (interaction live avec le chat)
+- Gestion d’événements en direct et d’état partagé
+
+👉 **Démo live :** https://archifishdex.fr  
+👉 **Code :** https://github.com/ArchibaldW/ArchiDexFishing  
 
 ---
 
-### 💼 Expériences Marquantes
-- **Castor & Pollux :** Refonte front-end de l'écosystème CFTC.fr (VueJS, Quasar).
-- **Odeven :** Conception d'une app de gestion de projet en autonomie (Nuxt/Node).
-- **Freelance :** Plateforme OTT pour l'UIPM (WordPress/Dailymotion).
+## 🛠 Stack technique
+
+### Front-end
+- Vue.js, Nuxt.js, React
+- Quasar
+- SCSS
+
+### Back-end
+- Node.js (Express)
+- MongoDB
+- PHP (CakePHP)
+- WordPress (Bedrock / Timber)
+
+### Outils & Méthodes
+- Git / GitLab
+- Vite
+- Figma
+- Agile (Scrum / Kanban)
 
 ---
 
-### 📊 En chiffres
-- 🍎 **2 ans** à enseigner les maths (Rigueur++).
-- 🎮 **6000h+** de stream sur Twitch (Communauté & Interaction).
-- 💻 **4 ans** de dev Fullstack.
+## 💼 Expériences
+
+### Castor & Pollux
+- Refonte front-end de l’écosystème CFTC.fr  
+- Stack : Vue.js, Quasar  
+
+### Odeven
+- Conception d’une application de gestion de projet en autonomie  
+- Stack : Nuxt.js / Node.js  
+
+### Freelance
+- Développement d’une plateforme OTT pour l’UIPM  
+- Stack : WordPress / Dailymotion  
 
 ---
 
-### 📫 On reste en contact ?
-[LinkedIn](https://www.linkedin.com/in/herve-chigros/) | [Twitch](https://www.twitch.tv/archibaldwirslayd) | [herve@chigros.fr](mailto:herve@chigros.fr)
+## 🔍 Ce que j’apporte
+
+- 🧠 Rigueur technique (héritée des mathématiques)
+- 🧩 Capacité à concevoir des architectures propres et évolutives
+- ⚡ Expérience sur des systèmes interactifs temps réel
+- 💬 Sens de la pédagogie et du travail en équipe
+
+---
+
+## 📊 En chiffres
+
+- 🍎 2 ans d’enseignement des mathématiques  
+- 💻 4 ans de développement fullstack  
+- 🎮 6000h+ de streaming → gestion de communauté & outils interactifs  
+
+---
+
+## 📫 Me contacter
+
+- LinkedIn : https://www.linkedin.com/in/herve-chigros/  
+- Twitch : https://www.twitch.tv/archibaldwirslayd  
+- Email : herve@chigros.fr  
