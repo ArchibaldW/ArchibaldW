@@ -16,7 +16,7 @@ Je développe un écosystème complet autour d’un **jeu de pêche interactif e
 
 - Communication entre :
   - [Lurk Bait Twitch Fishing](https://blam.cam/) (jeu tiers utilisé comme base)
-  - une web app avec authentification OAuth Twitch (Vue.js)
+  - une web app avec authentification OAuth Twitch (Vue.js / Nuxt.js)
   - une API de gestion des données utilisateurs (Node.js / MongoDB)
   - un bot Twitch qui capte les événements du chat et les transforme en données exploitables
 
