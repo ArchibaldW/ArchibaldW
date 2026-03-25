@@ -13,11 +13,14 @@ Je développe un écosystème complet autour d’un **jeu de pêche interactif e
 
 ### 🧠 Défis techniques relevés :
 - Synchronisation **temps réel** entre plusieurs systèmes
+
 - Communication entre :
-  - une web app (Vue.js)
-  - une API (Node.js / MongoDB)
-  - un bot Twitch (interaction live avec le chat)
-- Gestion d’événements en direct et d’état partagé
+  - [Lurk Bait Twitch Fishing](https://blam.cam/) (jeu tiers utilisé comme base)
+  - une web app avec authentification OAuth Twitch (Vue.js)
+  - une API de gestion des données utilisateurs (Node.js / MongoDB)
+  - un bot Twitch qui capte les événements du chat et les transforme en données exploitables
+
+- Gestion d’événements temps réel et maintien d’un **état partagé cohérent** entre tous les services
 
 👉 **Démo live :** https://archifishdex.fr  
 👉 **Code :** https://github.com/ArchibaldW/ArchiDexFishing  
