@@ -41,8 +41,9 @@ Je développe un écosystème complet autour d’un **jeu de pêche interactif e
 - WordPress (Bedrock / Timber)
 
 ### Outils & Méthodes
-- Git / GitLab
-- Vite
+- Git / GitLab / GitHub
+- Visual Studio Code / MobaXTerm / MongoDBCompass
+- Linux
 - Figma
 - Agile (Scrum / Kanban)
 
