@@ -19,7 +19,7 @@ Ancien professeur de mathématiques, j'ai pivoté vers le développement web ave
 Je développe un écosystème complet pour un **jeu de pêche interactif** qui tourne en direct sur ma chaîne Twitch.
 - **Le challenge :** Faire communiquer un jeu (non développé par moi-même), un site web (VueJS), un backend (NodeJS/MongoDB) et un Bot JS qui interagit en temps réel avec le tchat.
 - **Live sur :** [archifishdex.fr](https://archifishdex.fr)
-- **Le code :** [twitch-fishing-game](https://github.com/ArchibaldW/twitch-fishing-game)
+- **Le code :** [ArchiDexFishing](https://github.com/ArchibaldW/ArchiDexFishing)
 
 ---
 
