@@ -7,7 +7,7 @@ Ancien professeur de mathématiques reconverti dans le développement web, je co
 
 ---
 
-## 🚀 Projet phare : Archifishdex
+## 🚀 Projet phare : ArchiFishDex
 
 Je développe un écosystème complet autour d’un **jeu de pêche interactif en live sur Twitch**.
 
